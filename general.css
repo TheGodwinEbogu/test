@@ -1,0 +1,89 @@
+/* primary colors variation */
+/* primary color-1 #4da64d */
+
+/* primary color- btn hover change #66b366 */
+/* primary color - text-highlight #b3d9b3 */
+
+/* Secondary colors */
+/* #1977cc , #0d6efd, #0d6efd #e7f1ff;; */
+
+/* PADDINGS */
+/* padding between sections === 9.6rem */
+
+/* .section-hero {
+  margin-bottom: 9.6rem;
+  padding-bottom: 6rem;
+  position: relative;
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(0, 4, 15, 0.981),
+    rgba(19, 19, 96, 0.687)
+  );
+} */
+
+html {
+  font-size: 62.5%;
+}
+* {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+body {
+  box-sizing: border-box;
+  font-family: "Rubik", sans-serif;
+  color: #031633;
+}
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 0 3.2rem;
+}
+.mar-bott {
+  margin-bottom: 5rem;
+}
+.mar-bott-mid {
+  margin-bottom: 2.5rem;
+}
+.mar-bott-sm {
+  margin-bottom: 1rem;
+}
+
+.text-highlight {
+  background-image: linear-gradient(to right, #4da64d, #b3d9b3);
+  background-clip: clip;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+.text-green {
+  color: #4da64d;
+}
+
+/* to right bottom,
+rgba(0, 4, 15, 0.981),
+rgba(19, 19, 96, 0.687)
+), */
+
+/* 
+Oluwatosin Rhoda
+
+There aren't many jobs out there that gives room or the freedom to work from home, live wherever you want and work at your own pace .
+
+But Bullseye gave me the training  on software development  that is already transforming my life. 
+Now I have a good opportunity to enjoy a better career I love as well as the opportunity to  the work life balance that I need.                                                                                                                  You too can join the tech world today solve problems and enjoy an easy life.
+*/
+
+/* 
+OLUSOLA OLADAPO
+
+
+I got admitted into bullseye boot camp with zero programing knowledge, 
+in the last three months I’ve made tremendous progress in html, css and JavaScript 
+with the help of the facilitator and available materials; steady internet connections, 
+power supply and acces to various online research materials 
+
+The aura in the facility is second to none, the serenity is top notch and the beatiful setting. 
+I was scared at first if I would make progress when I joined the program, however, 
+I feel so happy and confident in the progress I’ve been making. My tech dreams becomes
+ realistic daily with bullseye boot camp.
+*/
